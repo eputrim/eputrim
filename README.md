@@ -1,5 +1,7 @@
 # Hi! I'm Erika Putrim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I am a student majoring in computer science. I save both my coursework and projects that I make here.
+
 <!--
 **eputrim/eputrim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
